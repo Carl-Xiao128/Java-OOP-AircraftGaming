@@ -1,1 +1,2 @@
-# Java JavaSwing OOP gaming
+# Java Swing OOP gaming
+## it's a funny aircraft small game implemented by Java, Swing API, and object-oriented programming
